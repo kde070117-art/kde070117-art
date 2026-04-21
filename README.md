@@ -1,6 +1,6 @@
 ## Hi there 👋
-## 안녕하세요. 한신대학교 자유전공학부 김도언입니다.
-<!--
+## 안녕하세요. 한신대학교 자유전공학부 김도언입니다.😊
+## 안녕하세요. 한신대학교 자유전공학부 김도언입니다.😂
 **kde070117-art/kde070117-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
